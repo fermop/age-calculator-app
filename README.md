@@ -2,7 +2,7 @@
 
 This is a solution to the [Age calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/age-calculator-app-dF9DFFpj-Q). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-![Sample GIF](https://github.com/fermop/frontend_mentor-assets/blob/main/junior/age-calculator-app/sample.gif?raw=true)
+![Sample GIF](./sample.gif)
 
 ## Table of contents
 
@@ -39,16 +39,16 @@ Users should be able to:
 
 📱 Mobile
 
-![Mobile](https://github.com/fermop/frontend_mentor-assets/blob/main/junior/age-calculator-app/mobile.png?raw=true)
+![Mobile](./mobile.png)
 
 💻 Desktop
 
-![Desktop](https://github.com/fermop/frontend_mentor-assets/blob/main/junior/age-calculator-app/desktop.png?raw=true)
+![Desktop](./desktop.png)
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/age-calculator-app-6fFsdqV4hh](https://www.frontendmentor.io/solutions/age-calculator-app-6fFsdqV4hh)
+- Live Site URL: [https://age-calculator-app-seven-eta.vercel.app/](https://age-calculator-app-seven-eta.vercel.app/)
 
 ## My process
 

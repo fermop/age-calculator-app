@@ -53,6 +53,8 @@ export default function DateForm({ onDaysChange, onMonthsChange, onYearsChange }
     const y = +formData.years;
     if (formData.years && (y < 1 || y > currentYear)) {
       newErrors.years = "Must be a valid year";
+    } else if (formData.years && formData.years.length != 4) {
+      newErrors.years = "Must be a 4 digit number";
     }
     
     // The date is invalid e.g. 31/04/1991 (there are 30 days in April)

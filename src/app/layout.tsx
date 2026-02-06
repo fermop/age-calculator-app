@@ -22,7 +22,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`min-h-dvh bg-neutral-grey-200 flex flex-col items-center justify-center ${poppins.variable} antialiased`}
+        className={`min-h-dvh bg-neutral-grey-200 font-poppins flex flex-col items-center justify-center ${poppins.variable} antialiased`}
       >
         {children}
 

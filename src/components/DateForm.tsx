@@ -94,6 +94,7 @@ export default function DateForm({ onDaysChange, onMonthsChange, onYearsChange }
         className='flex flex-col'
         onSubmit={handleSubmit}
         noValidate
+        autoComplete='off'
       >
         <div className='grid grid-cols-3 gap-4 sm:max-w-[75%]' >
           <InputField 

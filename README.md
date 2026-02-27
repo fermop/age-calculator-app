@@ -125,4 +125,4 @@ I want to continue practicing these concepts to solidify my understanding of Rea
 ## Author
 
 - Frontend Mentor - [@fermop](https://www.frontendmentor.io/profile/fermop)
-- Linkedin - [Fernando Pérez Mojica](www.linkedin.com/in/fernando-pérez-mojica-71b28a361)
+- Linkedin - [Fernando Pérez Mojica](https://www.linkedin.com/in/fernando-pérez-mojica-71b28a361)
